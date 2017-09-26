@@ -304,5 +304,6 @@ OpenCover/
 # Course specific
 *.zip
 *.pptx
+*.docx
 ScheduleE2016.pdf
 Course materials/
