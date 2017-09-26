@@ -30,9 +30,7 @@ This repository will contain all code examples that I use throughout the course.
     <tr>
     <td style="text-align:center;">4.</td>
     <td>Sep. 26th 2017</td>
-    <td>LINQ and WPF/UWP<br/>
-    <i>It is required that you have installed .Net Framework 4.7<br/>
-    For Apple Mac users, please install Windows in a VM</i></td>
+    <td>Classes and LINQ</td>
   </tr>
   <tr>
     <td style="text-align:center;">5.</td>
