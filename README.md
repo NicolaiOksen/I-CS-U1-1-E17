@@ -1,8 +1,20 @@
 # I-CS-U1-1-E17
+
 Repository for the course I-CS-U1-1-E17 at University of Southern Denmark
 
 This repository will contain all code examples that I use throughout the course. Furthermore all presentations will be present as PDFs.
 
+## Litterature
+
+Some students have expressed the desire to get books for the course. I have no official book for the course, but I am able to recommend some solid books. 
+
+- C# in depth - Jon Skeet
+  - This is really in depth and can be used as a reference book
+- C# 6.0 in a nutshell
+- C# 6 for programmers
+- C# 6.0 Cookbook: Solutions for C# Developers
+
+Also look at the [medium post](https://medium.com/level-up-web/best-c-books-in-2017-f0532502d34c) for inspiration and information.
 
 ## Lecture plan
 
