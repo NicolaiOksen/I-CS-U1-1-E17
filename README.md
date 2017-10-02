@@ -42,11 +42,12 @@ Also look at the [medium post](https://medium.com/level-up-web/best-c-books-in-2
     <tr>
     <td style="text-align:center;">4.</td>
     <td>Sep. 26th 2017</td>
-    <td>Classes and LINQ</td>
+    <td>Classes</td>
   </tr>
   <tr>
     <td style="text-align:center;">5.</td>
     <td>Oct. 3rd 2017</td>
-    <td>TBA</td>
+    <td>Abstract classes, Interfaces, and Patterns<br>
+    LINQ</td>
   </tr>
 </table>
