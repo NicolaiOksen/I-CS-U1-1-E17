@@ -39,15 +39,21 @@ Also look at the [medium post](https://medium.com/level-up-web/best-c-books-in-2
     <td>Sep. 19th 2017</td>
     <td>Collections, delegates and events</td>
   </tr>
-    <tr>
+  <tr>
     <td style="text-align:center;">4.</td>
     <td>Sep. 26th 2017</td>
     <td>Classes</td>
   </tr>
   <tr>
-    <td style="text-align:center;">5.</td>
+    <td style="text-align:center;">4.</td>
     <td>Oct. 3rd 2017</td>
-    <td>Abstract classes, Interfaces, and Patterns<br>
-    LINQ</td>
+    <td>Cancelled :(</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">5.</td>
+    <td>Oct. 7th 2017</td>
+    <td>Today is a full lesson - I'm starting the lecture at 16.00
+    <br>Abstract classes, Interfaces, and Patterns
+    <br>LINQ</td>
   </tr>
 </table>
