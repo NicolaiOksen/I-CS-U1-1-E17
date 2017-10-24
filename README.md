@@ -59,7 +59,11 @@ Also look at the [medium post](https://medium.com/level-up-web/best-c-books-in-2
   <tr>
     <td style="text-align:center;">5.</td>
     <td>Oct. 24th 2017</td>
-    <td>Exception handling<br/>
-    Input and output</td>
+    <td>Exception handling</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">5.</td>
+    <td>Oct. 31st 2017</td>
+    <td>Input and output</td>
   </tr>
 </table>
