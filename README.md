@@ -94,15 +94,7 @@ Also look at the [medium post](https://medium.com/level-up-web/best-c-books-in-2
 
 The exam will be held on the 25th and 26th of January.
 
-### Exam method 1
-
-- 25 minute exam
-- Multiple question, each student will draw a question at random.
-- The student will have 15 minutes to present the subject.
-- Censor and Teacher will have the remaining time to ask question in curriculum.
-- Censor and Teacher will have 5 minutes to decide on a grade.
-
-### Exam method 2
+### Exam method
 
 - 25 minute exam
 - Students will present their solution to mandatory assignment 2
