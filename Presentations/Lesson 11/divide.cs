@@ -1,14 +1,14 @@
-public double Divide(double i, double j) {
+public double Divide(double dividend, double divisor) {
 
-    if(j == 0)
+    if(divisor == 0)
         throw new Exception("Whoooaaa, you can't divide by zero....");
 
-    return (double) i / j;
+    return (double) dividend / divisor;
 
 }
 
-[Test]
-[ExpectedException(Exception)]
-public void DivideByZeroTest() {
-    Divide(1, 0);
-}
+//[Test]
+//[ExpectedException(Exception)]
+//public void DivideByZeroTest() {
+//    Divide(1, 0);
+//}
