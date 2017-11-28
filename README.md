@@ -94,6 +94,11 @@ Also look at the [medium post](https://medium.com/level-up-web/best-c-books-in-2
 
 The exam will be held on the 25th and 26th of January.
 
+### Exam Schedule
+
+Please fill out this [Doodle](https://doodle.com/poll/huv8fdukgp8gakav)
+Enter your username and what dates and times fits you best.
+
 ### Exam method
 
 - 25 minute exam
