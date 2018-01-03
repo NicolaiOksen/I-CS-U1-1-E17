@@ -116,9 +116,9 @@ Nicolai Birkmose Oksen (teacher, I-CS-U1) and Jan Midtgaard (censor) will attend
     <td>Pedersen</td>
   </tr>
   <tr>
-    <td>kasma15</td>
-    <td>Kasper</td>
-    <td>Madsen</td>
+    <td>magun15</td>
+    <td>Mathias</td>
+    <td>Gundertofte</td>
   </tr>
   <tr>
     <td>kevan14</td>
@@ -192,9 +192,9 @@ Nicolai Birkmose Oksen (teacher, I-CS-U1) and Jan Midtgaard (censor) will attend
     <td>Mørk</td>
   </tr>
   <tr>
-    <td>magun15</td>
-    <td>Mathias</td>
-    <td>Gundertofte</td>
+    <td>kasma15</td>
+    <td>Kasper</td>
+    <td>Madsen</td>
   </tr>
   <tr>
     <td>12.20 </td>
